@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# All the codes for commit.
 if [ $# -eq 0 ]; then
     echo -e "\e[1;91mUsage: add commit comment\e[0m"
     exit 1
