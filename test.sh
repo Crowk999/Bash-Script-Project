@@ -1,2 +1,1 @@
-echo $"testing of bash"
-
+echo "This is the testing of bash script"
